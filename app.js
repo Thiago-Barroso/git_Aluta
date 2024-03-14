@@ -18,4 +18,4 @@ while(numeroSecreto != chute){
 } 
 //Template_String
 let palavraTentativa = tentativas > 1 ? "tentativas" : "tentativa"
-alert(`Você acertou o número secreto ${numeroSecreto} em ${tentativas} ${palavraTentativa}!`);    
+alert(`Parabéns! Você acertou o número secreto ${numeroSecreto} em ${tentativas} ${palavraTentativa}!`);    
