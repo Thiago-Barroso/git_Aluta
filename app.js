@@ -1,4 +1,4 @@
-alert("Olá, boas vindas ao nosso Site!");
+alert("Olá, tudo bem? Boas vindas ao nosso Site!");
 let numeroMaximo = prompt("Informe o maior número do intervalo para adivinhar");
 let numeroSecreto = Math.floor(Math.random()* numeroMaximo);
 console.log(numeroSecreto);
